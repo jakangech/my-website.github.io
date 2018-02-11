@@ -141,28 +141,24 @@ width:200px;
   font-style: italic;
   color: indigo;
 }
-.unimportant{
-  font-family: sans-serif;
-}
-.strong{
-  color: beige;
-}
-.important1 p {
-  background-color: blue;
-  font-style: italic;
-}
 .color{
   background-color: cyan;
 }
 .box {
-    border: 2px solid blue;
-    color: purple;
-  }
+  border: 2px solid red;
+  padding: 6px;
+  margin: 20px;
+  background-color: pink;
+}
 .box2 {
-      border: 2px solid blue;
-      color: purple;
-    }
+  border: 2px solid red;
+  padding: 6px;
+  margin: 20px;
+  background-color: pink;
+}
 .box3 {
-          border: 2px solid blue;
-          color: purple;
-        }
+  border: 2px solid red;
+  padding: 6px;
+  margin: 20px;
+  background-color: pink;
+}
