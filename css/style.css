@@ -1,0 +1,41 @@
+h1{
+  color: #f7325e;
+}
+body{
+  background-color: brown;
+}
+.tropical{
+  color: #7dc410;
+}
+#color1{
+  color: green;
+}
+.popular{
+  color: #FA8072;
+}
+#background2{
+  background-color: green;
+}
+#background3{
+  background-color: blue;
+}
+#background4{
+  background-color: purple;
+}
+.important{
+  font-style: italic;
+  color: indigo;
+}
+.unimportant{
+  font-family: sans-serif;
+}
+.strong{
+  color: beige;
+}
+.important1 p {
+  background-color: blue;
+  font-style: italic;
+}
+.color{
+  background-color: cyan;
+}
